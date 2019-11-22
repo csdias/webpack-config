@@ -225,7 +225,7 @@ eval("\n\nif (false) {} else {\n  module.exports = __webpack_require__(/*! ./cjs
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("const React = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nconst ReactDom = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n\nconst App = () => React.createElement(\"h1\", null, \"Hola Mundo!\");\n\nReactDom.render(React.createElement(App, null), document.getElementById(\"root\"));\n\n//# sourceURL=webpack:///./src/public/js/main.js?");
+eval("const React = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nconst ReactDom = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n\nconst App = () => React.createElement(\"h1\", null, \"Hola Mundo!!!!\");\n\nReactDom.render(React.createElement(App, null), document.getElementById(\"root\"));\n\n//# sourceURL=webpack:///./src/public/js/main.js?");
 
 /***/ })
 
