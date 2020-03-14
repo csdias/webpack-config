@@ -15,3 +15,5 @@ mkdir js
 cat > main.js
 __
 npm i webpack webpack-cli @babel/core @babel/preset-react babel-loader --save-dev -E (E = exact version)
+__
+cat > index.html
