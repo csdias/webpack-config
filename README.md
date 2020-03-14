@@ -17,3 +17,7 @@ __
 npm i webpack webpack-cli @babel/core @babel/preset-react babel-loader --save-dev -E (E = exact version)
 __
 cat > index.html
+______________________________
+npm i react react-dom --save -E
+
+
