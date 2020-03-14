@@ -10,6 +10,7 @@ const path = require('path');
 Ctrl + D
 ----------------
 mkdir src
-  mkdir public
-    mkdir js
+mkdir public
+mkdir js
+cat > main.js
       
